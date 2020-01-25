@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/TimeAndCalendar">
+        <file>Resources/13501.ttf</file>
+        <file>Resources/Filmotype_LaCrosse.otf</file>
+    </qresource>
+</RCC>
